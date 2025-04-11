@@ -1,0 +1,71 @@
+D:\IT -  HAU\C#\QL_Diem\bin\Debug\QL_Diem.exe
+D:\IT -  HAU\C#\QL_Diem\bin\Debug\QL_Diem.exe.config
+D:\IT -  HAU\C#\QL_Diem\bin\Debug\DevExpress.Data.Desktop.v24.2.dll
+D:\IT -  HAU\C#\QL_Diem\bin\Debug\DevExpress.Data.v24.2.dll
+D:\IT -  HAU\C#\QL_Diem\bin\Debug\DevExpress.Drawing.v24.2.dll
+D:\IT -  HAU\C#\QL_Diem\bin\Debug\DevExpress.Printing.v24.2.Core.dll
+D:\IT -  HAU\C#\QL_Diem\bin\Debug\DevExpress.Sparkline.v24.2.Core.dll
+D:\IT -  HAU\C#\QL_Diem\bin\Debug\DevExpress.Utils.v24.2.dll
+D:\IT -  HAU\C#\QL_Diem\bin\Debug\DevExpress.XtraEditors.v24.2.dll
+D:\IT -  HAU\C#\QL_Diem\bin\Debug\DevExpress.Pdf.v24.2.Core.dll
+D:\IT -  HAU\C#\QL_Diem\bin\Debug\DevExpress.Pdf.v24.2.Drawing.dll
+D:\IT -  HAU\C#\QL_Diem\bin\Debug\DevExpress.Data.Desktop.v24.2.xml
+D:\IT -  HAU\C#\QL_Diem\bin\Debug\DevExpress.Data.v24.2.xml
+D:\IT -  HAU\C#\QL_Diem\bin\Debug\DevExpress.Drawing.v24.2.xml
+D:\IT -  HAU\C#\QL_Diem\bin\Debug\DevExpress.Printing.v24.2.Core.xml
+D:\IT -  HAU\C#\QL_Diem\bin\Debug\DevExpress.Sparkline.v24.2.Core.xml
+D:\IT -  HAU\C#\QL_Diem\bin\Debug\DevExpress.Utils.v24.2.xml
+D:\IT -  HAU\C#\QL_Diem\bin\Debug\DevExpress.XtraEditors.v24.2.xml
+D:\IT -  HAU\C#\QL_Diem\bin\Debug\DevExpress.Pdf.v24.2.Core.xml
+D:\IT -  HAU\C#\QL_Diem\bin\Debug\DevExpress.Pdf.v24.2.Drawing.xml
+D:\IT -  HAU\C#\QL_Diem\obj\Debug\QL_Diem.csproj.AssemblyReference.cache
+D:\IT -  HAU\C#\QL_Diem\obj\Debug\QL_Diem.frmLogin.resources
+D:\IT -  HAU\C#\QL_Diem\obj\Debug\QL_Diem.frmMain.resources
+D:\IT -  HAU\C#\QL_Diem\obj\Debug\QL_Diem.frmPersonalInfo.resources
+D:\IT -  HAU\C#\QL_Diem\obj\Debug\QL_Diem.Properties.Resources.resources
+D:\IT -  HAU\C#\QL_Diem\obj\Debug\QL_Diem.csproj.GenerateResource.cache
+D:\IT -  HAU\C#\QL_Diem\obj\Debug\QL_Diem.csproj.CoreCompileInputs.cache
+D:\IT -  HAU\C#\QL_Diem\obj\Debug\QL_Diem.csproj.Up2Date
+D:\IT -  HAU\C#\QL_Diem\obj\Debug\QL_Diem.exe
+D:\IT -  HAU\C#\QL_Diem\obj\Debug\QL_Diem.pdb
+D:\IT -  HAU\C#\QL_Diem\bin\Debug\QL_Diem.pdb
+D:\IT -  HAU\C#\QL_Diem\bin\Debug\DevExpress.XtraBars.v24.2.dll
+D:\IT -  HAU\C#\QL_Diem\bin\Debug\DevExpress.XtraBars.v24.2.xml
+D:\IT-HAU\Csharp\QL_Diem\bin\Debug\QL_Diem.exe.config
+D:\IT-HAU\Csharp\QL_Diem\bin\Debug\QL_Diem.exe
+D:\IT-HAU\Csharp\QL_Diem\bin\Debug\QL_Diem.pdb
+D:\IT-HAU\Csharp\QL_Diem\obj\Debug\QL_Diem.csproj.AssemblyReference.cache
+D:\IT-HAU\Csharp\QL_Diem\obj\Debug\QL_Diem.frmLogin.resources
+D:\IT-HAU\Csharp\QL_Diem\obj\Debug\QL_Diem.frmMain.resources
+D:\IT-HAU\Csharp\QL_Diem\obj\Debug\QL_Diem.frmPersonalInfo.resources
+D:\IT-HAU\Csharp\QL_Diem\obj\Debug\QL_Diem.Properties.Resources.resources
+D:\IT-HAU\Csharp\QL_Diem\obj\Debug\QL_Diem.csproj.GenerateResource.cache
+D:\IT-HAU\Csharp\QL_Diem\obj\Debug\QL_Diem.csproj.CoreCompileInputs.cache
+D:\IT-HAU\Csharp\QL_Diem\obj\Debug\QL_Diem.csproj.Up2Date
+D:\IT-HAU\Csharp\QL_Diem\obj\Debug\QL_Diem.exe
+D:\IT-HAU\Csharp\QL_Diem\obj\Debug\QL_Diem.pdb
+D:\IT-HAU\Csharp\QL_Diem\obj\Debug\QL_Diem.frmClassList.resources
+D:\IT-HAU\Csharp\QL_Diem\obj\Debug\QL_Diem.frmAddInfo.resources
+D:\IT-HAU\Csharp\QL_Diem\obj\Debug\QL_Diem.frmAddScore.resources
+D:\IT-HAU\Csharp\QL_Diem\obj\Debug\QL_Diem.frmInputScore.resources
+D:\IT-HAU\Csharp\QL_Diem\obj\Debug\QL_Diem.frmEditScore.resources
+D:\IT-HAU\Csharp\QL_Diem\obj\Debug\QL_Diem.frmEditScoreTab.resources
+D:\C# & .NET\QL_Diem\bin\Debug\QL_Diem.exe.config
+D:\C# & .NET\QL_Diem\bin\Debug\QL_Diem.exe
+D:\C# & .NET\QL_Diem\bin\Debug\QL_Diem.pdb
+D:\C# & .NET\QL_Diem\obj\Debug\QL_Diem.csproj.AssemblyReference.cache
+D:\C# & .NET\QL_Diem\obj\Debug\QL_Diem.frmAddInfo.resources
+D:\C# & .NET\QL_Diem\obj\Debug\QL_Diem.frmAddScore.resources
+D:\C# & .NET\QL_Diem\obj\Debug\QL_Diem.frmClassList.resources
+D:\C# & .NET\QL_Diem\obj\Debug\QL_Diem.frmEditScore.resources
+D:\C# & .NET\QL_Diem\obj\Debug\QL_Diem.frmEditScoreTab.resources
+D:\C# & .NET\QL_Diem\obj\Debug\QL_Diem.frmInputScore.resources
+D:\C# & .NET\QL_Diem\obj\Debug\QL_Diem.frmLogin.resources
+D:\C# & .NET\QL_Diem\obj\Debug\QL_Diem.frmMain.resources
+D:\C# & .NET\QL_Diem\obj\Debug\QL_Diem.frmPersonalInfo.resources
+D:\C# & .NET\QL_Diem\obj\Debug\QL_Diem.Properties.Resources.resources
+D:\C# & .NET\QL_Diem\obj\Debug\QL_Diem.csproj.GenerateResource.cache
+D:\C# & .NET\QL_Diem\obj\Debug\QL_Diem.csproj.CoreCompileInputs.cache
+D:\C# & .NET\QL_Diem\obj\Debug\QL_Diem.csproj.Up2Date
+D:\C# & .NET\QL_Diem\obj\Debug\QL_Diem.exe
+D:\C# & .NET\QL_Diem\obj\Debug\QL_Diem.pdb
